@@ -28,7 +28,7 @@ see the following links:
 
 ####This is our original image:
 
-![Checkerboard Original](/images/checkerboard.png)
+![Checkerboard Original](/Images/checkerboard.png)
 
 ####This is our final image:
-![Checkerboard Final](/images/finalimage.png)
+![Checkerboard Final](/Images/finalimage.png)
