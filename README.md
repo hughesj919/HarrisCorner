@@ -1,7 +1,7 @@
-#Harris Corner Detector
-####Jordan Hughes
-####UC Santa Barbara
-####hughesj919 at gmail.com
+# Harris Corner Detector
+#### Jordan Hughes
+#### UC Santa Barbara
+#### hughesj919 at gmail.com
 
 This is a python based harris corner detector.  OpenCV module is used to read images in
 
@@ -26,9 +26,9 @@ see the following links:
 * [Harris and Stephens Corner Detection Wiki](https://en.wikipedia.org/wiki/Corner_detection#The_Harris_.26_Stephens_.2F_Plessey_.2F_Shi.E2.80.93Tomasi_corner_detection_algorithm)
 * [A Combined Corner and Edge Detector](http://www.bmva.org/bmvc/1988/avc-88-023.pdf)
 
-####This is our original image:
+#### This is our original image:
 
 ![Checkerboard Original](/Images/checkerboard.png)
 
-####This is our final image:
+#### This is our final image:
 ![Checkerboard Final](/Images/finalimage.png)
